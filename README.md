@@ -3,6 +3,7 @@ In the repository, you can find the presentation slides for "SAP Penetration Tes
 
 In the presentation, you will find information about vulnerabilities discovered and assessed by RedRays.
 
+https://redrays.io/sap-security-platform-for-penetration-testers/
 
-
-[RedRays Security Platform](https://redrays.io/redrays-security-platform-for-sap-consultants/) now includes information and PoC on discovered and fixed vulnerabilities.
+[RedRays Security Platform for SAP Penetration testers](https://redrays.io/sap-security-platform-for-penetration-testers/), [RedRays Security Platform for Consultants](https://redrays.io/redrays-security-platform-for-sap-consultants/) and [RedRays SAP Security Platform for Enterprise
+](https://redrays.io/redrays-security-platform-for-sap-systems/) now include information and PoC on discovered and fixed vulnerabilities.
